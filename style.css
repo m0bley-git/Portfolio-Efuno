@@ -31,11 +31,11 @@ header {
 }
 
 #menu {
-    width: 80vm;
-    height: 15vh;
+    width: 50vmax;
+    height: 90vh;
     background-color: white;
-    opacity: 0.8;
-    line-height: 2;
+    opacity: 0.9;
+    line-height: 3;
 }
 
 nav {
@@ -52,6 +52,7 @@ nav {
 nav a {
     color: black;
     font-weight: bold;
+    text-align: center;
 
 }
 
