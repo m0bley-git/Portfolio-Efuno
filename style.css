@@ -31,8 +31,9 @@ header {
 }
 
 #menu {
-    width: 50vmax;
+    width: 90vw;
     height: 90vh;
+    max-width: 320px;
     background-color: white;
     opacity: 0.9;
     line-height: 3;
@@ -161,7 +162,7 @@ h4 {
 .texte_contact {
     margin-top: 12%;
     font-size: 1rem;
-    text-align: left;
+    text-align: center;
     line-height: 2;
 }
 
